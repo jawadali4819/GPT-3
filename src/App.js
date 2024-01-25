@@ -3,8 +3,10 @@ import {Blog, Header, Footer, Possibility, Features, Whatgpt3} from "./container
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
+      
       <div className='gradient__bg'>
         <Navbar/>
         <Header/>

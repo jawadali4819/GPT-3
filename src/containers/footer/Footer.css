@@ -15,10 +15,10 @@
 }
 
 .gpt3__footer-heading h1 {
-  font-size: 58px;
+  font-size: 52px;
   font-family: var(--font-family);
   line-height: 64px;
-  font-weight: 800;
+  font-weight: 700;
   margin-bottom: 1rem;
   letter-spacing: -1px;
 }
@@ -93,7 +93,7 @@
 
 .gpt3__footer-links-div li {
   padding: 0 0 2rem 0;
-  font-size: 16px;
+  font-size: 14px;
   letter-spacing: 1px;
 }
 

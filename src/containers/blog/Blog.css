@@ -11,8 +11,8 @@
 
 .gpt3__blog-heading h1{
     font-family: var(--font-family);
-    font-weight: 800;
-    font-size: 62px;
+    font-weight: 700;
+    font-size: 54px;
     line-height: 80px;
     letter-spacing: -0.04px;
 }
